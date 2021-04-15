@@ -1,4 +1,4 @@
-#publishdir = "docs"
+publishdir = "docs"
 baseURL = "http://example.org/"
 languageCode = "en-us"
 paginate = 6
