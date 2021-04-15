@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hello, I am Maria SOTO 
+content: >
+  # I am Operations Research Enginner and Data Scientist
+
+  My main areas of work are Mathematical Programming, Combinatorial optimization and Data Analysis 
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/photo.png
+videoThumb: images/hero/popup-thumb.png
+#videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

@@ -1,0 +1,45 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## My Skills
+
+  I have mathematical skills and also computing skill
+
+image: images/skill/skills_maria.png
+
+skill:
+  - title: Software development
+    content: > 
+      Programming language, and deployment tools
+        - C ++ and Python development
+        - Dev. of Web APIs
+        - Docker (deployment of applications)
+        - Bash script
+        - Jupyte Notebooks
+        - Git and Mercurial (version control software)
+    percent: 100
+  - title: Web development
+    content: > 
+      Web technology for developping user iterfaces
+        - Typescript/Javascript
+        - Angular (dynamic site web)
+        - Hugo (static sit web)
+        - Html
+        - Google Map et geolocation API
+        - Ionic: Mobile App Development        
+    percent: 100
+  - title: Softwares
+    content: > 
+      Softwares for data analyse, optimization solvers, text edition and documentation
+        - Qlik for data visualization
+        - R, SPSS, Eviews, Excel
+        - Xpress-MP, GLPK, Gurobi
+        - SQL, Access
+        - Matlab,C, Visual Basic
+        - CMake, CTest, CDash
+        - Doxygen, Beamer, Latex        
+    percent: 100
+
+
+

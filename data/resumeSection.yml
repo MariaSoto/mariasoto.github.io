@@ -1,0 +1,106 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertises
+
+  Mathematical Programming, Combinatory optimization, Metaheurtistics, Data Analysis, C++, python, web api, docker
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Operation Research PHD
+
+      [Université de Bretagne-Sud](http://www.univ-ubs.fr). Brittany - France. Optimisation of memory allocation for embedded systems. 
+    time: 2008-2011
+  - content: >
+      #### Mathematician Engineer
+
+      [Escuela Politécnica Nacional](https://www.epn.edu.ec/). Quito - Equateur. Statistics and Optimisation
+    time: 2002-2007
+experience:
+  - content: >
+      #### Research and Development Engineer at [See-d](https://see-d.fr/)
+
+      *Data analysis for several clients like [Le Gouessant](https://www.legouessant.com/), [Ouest-Elevage](https://celtilait.com/), [Sepur](http://www.sepur.com/) and [LMBA](http://web.univ-ubs.fr/lmba/)*
+        - Mathematical Modelling,  Data assimilation, Time Series and Metaheuristics
+        - Planning and optimization of scientific and training events
+        - Vehicle routing problems
+        - Implementation of user interfaces with web technologies (Angular, javascript, python). Par example : [Complex-Event](https://complex-event.com/)
+        - Development of web API's        
+        - Creation of user interfaces : [Qlik](https://www.qlik.com/us/) and [notebooks jupyter](https://jupyter.org/)
+        - Deployment of application through [dockers](https://www.docker.com/company)
+
+    time: 2019-Present
+  - content: >
+      #### Consulting Engineer at [ALTRAN](http://www.altran.com/)
+
+      *Validation and automation tests for [ZODIAC AEROSPACE](http://www.zodiacaerospace.com/fr)*
+        -   Calibrating the parameters of a signal processing library
+        -   Mathematical model to calibrate library parameters
+        -   Devise and implementation metaheuristics in [C++](http://www.cplusplus.com/)
+        -   Development of bash and python scripts to automate auto-regression tests
+        -   Development of scripts for controlling electronic targets used for signal generation and noise
+        -   Statistical assessment of the performance of several versions of library
+
+
+    time: 2015-2019
+  - content: >
+      #### Research and Development Engineer at [Lab-STICC](http://www.lab-sticc.fr/)
+
+      *Study, analysis and modeling  the transport of disabled persons (Vehicule routings Problems)*
+        -   Mix open vehicle routing problem with unitary demand and multiple depots
+        -   Implementation of exact mathematical models with [Gurobi](http://www.gurobi.com/) from [C++](http://www.cplusplus.com/)
+        -   Devise and implementation metaheuristics in [C++](http://www.cplusplus.com/)
+        -   Statistical assessment of my metaheuristics using Wilcoxon and Fiedman tests with [R](https://www.r-project.org/)
+        -   Writing journal articles
+        -   Development of [web interfaces](http://www-labsticc.univ-ubs.fr/ovrp/webOVRP/) for the open vehicle routing problem using [Google Maps APIs](https://developers.google.com/maps/?hl=en)
+    time: 2013-2014
+  - content: >
+      #### Research and Development Engineer at [LOSI](http://losi.utt.fr/fr/index.html) and [LM2S](http://lm2s.utt.fr/en/index.html), [Université de Technology de Troyes](http://www.utt.fr/fr/index.html)
+
+      *Study, analysis and modeling the mobile sensor networks for monitoring environment*
+        -   Bi-objective vehicle routing problem
+        -   Implementation of exact mathematical models with [Gurobi](http://www.gurobi.com/) from [C++](http://www.cplusplus.com/)
+        -   Devise and implementation of two phase metaheuristic and a hybrid evolutionary algorithm in [C++](http://www.cplusplus.com/)
+        -   Writing abstract article for [Roadef 2013](http://roadef2013.utt.fr/)
+    time: 2012-2013
+  - content: >
+      #### Assistant Professor at [STID](http://www.stid-vannes.fr/), [Université de Bretagne-Sud](http://www.univ-ubs.fr)
+
+      *Study, analysis and modeling the dynamic memory allocation problem*
+        - Teaching probability and database to students from [STID](http://www.stid-vannes.fr/)
+        - Publishing scientific articles in the [European Journal of Operational](http://www.journals.elsevier.com/european-journal-of-operational-research/) and [Soft Computing](http://www.journals.elsevier.com/applied-soft-computing/)        
+    time: 2011-2012
+  - content: >
+      #### PHD Student at [Lab-STICC](http://www.lab-sticc.fr/), [Université de Bretagne-Sud](http://www.univ-ubs.fr)
+
+      *Study, analysis and modeling the memory allocation problem*
+        - Study of the combinatorial problems: [Graph coloring](https://en.wikipedia.org/wiki/Graph_coloring) and [Bin-Packing](https://en.wikipedia.org/wiki/Bin_packing_problem)
+        - Implementation of exact mathematical models (Integer Linear Programming) with [Xpress-MP](http://www.solver.com/xpress-solver-engine) and [GLPK](https://www.gnu.org/software/glpk/) from [C++](http://www.cplusplus.com/)
+        - Devise and implementation of sophisticated metaheuristics in [C++](http://www.cplusplus.com/) [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm), [Variable Neighborhood Search](https://en.wikipedia.org/wiki/Variable_neighborhood_search) and [Ejection Chains](http://link.springer.com/article/10.1007/s00500-013-1157-9)
+        - Implementation of these optimization methods on [softexplorer](www.softexplorer.fr) which is a software to design embedded systems and developed by [Lab-STICC](http://www.lab-sticc.fr/) laboratory
+        - Teaching operations research and combinatorial optimization to master students
+        - Publishing scientific articles in [Discrete Applied Mathematics](http://www.journals.elsevier.com/discrete-applied-mathematics/) and [Journal of Heuristics](http://link.springer.com/journal/10732)
+    time: 2008-2011   
+  - content: >
+      #### Mathematical Engineer at [ Banco Central del Ecuador](http://www.bce.fin.ec/)
+
+      *Stochastic optimization model for the management of account balance in the Central Bank of Ecuador*
+        -   [Optimization under uncertainty](http://www.math.washington.edu/~rtr/uncertainty.pdf) and [Stochastic programming](https://en.wikipedia.org/wiki/Stochastic_programming)
+        -   Proposal of un exact multi stage stochastic model for this problem
+        -   Proposal and implementation of a [Minimum-cost flow model](https://en.wikipedia.org/wiki/Minimum-cost_flow_problem) to the deterministic case
+        -   Implementation of exact model with [SMI](http://www.coin-or.org/projects/Smi.xml) library in [C++](http://www.cplusplus.com/)
+        -   Devise and implementation of on-line algorithms in [C++](http://www.cplusplus.com/)
+        -   Devise a nonlinear model for calibrating the algorithm parameters
+        -   Implementation of numerical optimization methods [Nelder-Mead](https://en.wikipedia.org/wiki/Nelder%E2%80%93Mead_method) and [Gradient](https://en.wikipedia.org/wiki/Gradient_method) in [C++](http://www.cplusplus.com/) and [Matlab](http://fr.mathworks.com/products/matlab/)
+        -   Training and modeling time series of account balance with [Eviews](http://www.eviews.com/home.html) and [SPSS](http://www-01.ibm.com/software/analytics/spss/)
+        -   Computing probabilistic indicators and detecting cyclical turning points: Neftçi algorithm and Markov-Switching model
+        -   Data analysis and data mining for the unemployment survey with [SPSS](http://www-01.ibm.com/software/analytics/spss/)
+    time: 2008-2011  
+
+    
+        

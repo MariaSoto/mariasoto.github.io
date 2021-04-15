@@ -1,0 +1,26 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  I enjoy to tacke the complex problems from supply chains and others areas.
+content: >
+  I am Research and Development Engineer at See-d since january 2019. I obtained my degree in engineering mathematics at [Escuela Politécnica del Ecuador](epn.edu.ec). I received my Ph.D from [Université de Bretagne-Sud](https://www.univ-ubs.fr/fr/index.html).
+  
+  > I love to solve the complex problem and find better solutions throught metaheuristics and IA.
+
+  > I always try my best to make user interface using web apis, dockers and web technologies like angular.
+
+   ### Deal with complex issues
+
+  For solving complex problems in various fields, I apply four main steps :
+    - Understanding of the issue through discussions. Determination of objectives and constraints
+    - Mathematical modeling of problem and analysis of possible solutions
+    - Study and implementation of solving algorithms like metaheuristics or Artificial Intelligence algorithms
+    - User interface development and writing of a technical report
+#button1Name: Hire me2
+button2Name: Download CV
+#button1Target: contact
+button2Target: images/about/CVSoto.pdf
+image: images/about/deal-problems.png

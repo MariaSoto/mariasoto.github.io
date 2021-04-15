@@ -1,0 +1,10 @@
+---
+enable: true
+topTitle: Blog
+title: >
+  ## Blog and Scientific articles
+
+    - My Blogs
+    - My list of Journal article, conferences articles and book 
+
+buttonTarget: blog
