@@ -1,10 +1,137 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Maria Soto Lima</title><link>http://example.org/</link><description>Recent content on Maria Soto Lima</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 12:49:27 +0600</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>About Operation Research</title><link>http://example.org/blog/about-or/</link><pubDate>Thu, 01 Apr 2021 12:49:27 +0600</pubDate><guid>http://example.org/blog/about-or/</guid><description>Qu’est-ce que c’est la Recherche Opérationnelle (RO) ? La RO est la mise en application de méthodes mathématiques et algorithmiques afin de trouver la meilleure façon de procéder ou le meilleur choix en prenant en compte le contexte et les enjeux dans le but d’attendre le meilleur résultat possible.
-La RO a été largement appliqués dans l’optimisation des processus de la chaîne logistiques, du bon fonctionnement de grands réseaux de télécommunication, de production d’énergie, l&amp;rsquo;ordonnancement, la gestion de stock, l&amp;rsquo;affectation de moyens à des tâches, les problèmes d&amp;rsquo;investissement en finances entre autres.</description></item><item><title>Logistics groupes for making deliveries</title><link>http://example.org/portfolio/a_logistic-groupes/</link><pubDate>Mon, 21 Dec 2020 12:49:27 +0600</pubDate><guid>http://example.org/portfolio/a_logistic-groupes/</guid><description>Page in construction</description></item><item><title>Scheduling Conferences</title><link>http://example.org/portfolio/scheduling-conferences/</link><pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate><guid>http://example.org/portfolio/scheduling-conferences/</guid><description>In progress page
-Mathematical formalization of the problem and development of resolution algorithms based on GRASP and Tabu-Search metaheuristics. Implementation and deployment of the web interface Complex-Event.</description></item><item><title>Laying hens curves</title><link>http://example.org/portfolio/laying-curves/</link><pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate><guid>http://example.org/portfolio/laying-curves/</guid><description>Page in construction</description></item><item><title>Data assimilation</title><link>http://example.org/portfolio/data-assimilation/</link><pubDate>Tue, 12 May 2020 18:07:16 +0600</pubDate><guid>http://example.org/portfolio/data-assimilation/</guid><description>Assimilation de données L&amp;rsquo;assimilation de données est le procédé qui consiste à corriger, à l&amp;rsquo;aide d&amp;rsquo;observations, l&amp;rsquo;état d’un système souvent modélisé par un modèle mathématique. Elle a été largement exploitée dans la prévision météorologique et dans le domaine de la géoscience.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Soto Lima</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Maria Soto Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Apr 2021 12:49:27 +0600</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Operation Research</title>
+      <link>http://example.org/blog/about-or/</link>
+      <pubDate>Thu, 01 Apr 2021 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/blog/about-or/</guid>
+      <description>Qu’est-ce que c’est la Recherche Opérationnelle (RO) ?  La RO est la mise en application de méthodes mathématiques et algorithmiques afin de trouver la meilleure façon de procéder ou le meilleur choix en prenant en compte le contexte et les enjeux dans le but d’attendre le meilleur résultat possible.
+La RO a été largement appliqués dans l’optimisation des processus de la chaîne logistiques, du bon fonctionnement de grands réseaux de télécommunication, de production d’énergie, l&amp;rsquo;ordonnancement, la gestion de stock, l&amp;rsquo;affectation de moyens à des tâches, les problèmes d&amp;rsquo;investissement en finances entre autres.</description>
+    </item>
+    
+    <item>
+      <title>Logistics groupes for making deliveries</title>
+      <link>http://example.org/portfolio/a_logistic-groupes/</link>
+      <pubDate>Mon, 21 Dec 2020 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/a_logistic-groupes/</guid>
+      <description>Page in construction</description>
+    </item>
+    
+    <item>
+      <title>Scheduling Conferences</title>
+      <link>http://example.org/portfolio/scheduling-conferences/</link>
+      <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/scheduling-conferences/</guid>
+      <description>In progress page
+Mathematical formalization of the problem and development of resolution algorithms based on GRASP and Tabu-Search metaheuristics. Implementation and deployment of the web interface Complex-Event.</description>
+    </item>
+    
+    <item>
+      <title>Laying hens curves</title>
+      <link>http://example.org/portfolio/laying-curves/</link>
+      <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
+      
+      <guid>http://example.org/portfolio/laying-curves/</guid>
+      <description>Page in construction</description>
+    </item>
+    
+    <item>
+      <title>Data assimilation</title>
+      <link>http://example.org/portfolio/data-assimilation/</link>
+      <pubDate>Tue, 12 May 2020 18:07:16 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/data-assimilation/</guid>
+      <description>Assimilation de données  L&amp;rsquo;assimilation de données est le procédé qui consiste à corriger, à l&amp;rsquo;aide d&amp;rsquo;observations, l&amp;rsquo;état d’un système souvent modélisé par un modèle mathématique. Elle a été largement exploitée dans la prévision météorologique et dans le domaine de la géoscience.
 L&amp;rsquo;assimilation de données c&amp;rsquo;est un ensemble des méthodes qui permettent de combiner de manière optimale les informations disponibles sur un système Blayo :
-Équations mathématiques, décrivant le modèle physique Observation, mesures physiques de la réalité à travers des capteurs Statistiques d&amp;rsquo;erreurs : erreurs d&amp;rsquo;observation et du modèle L&amp;rsquo;assimilation de données est considérée comme une méthode ``prédicteur/correction''.</description></item><item><title>Transit times at the outlet of waste collection trucks</title><link>http://example.org/portfolio/waste-collection/</link><pubDate>Sun, 01 Dec 2019 12:49:27 +0600</pubDate><guid>http://example.org/portfolio/waste-collection/</guid><description>In progress page</description></item><item><title>Most important publications</title><link>http://example.org/blog/best_publications/</link><pubDate>Mon, 01 May 2017 12:49:27 +0600</pubDate><guid>http://example.org/blog/best_publications/</guid><description>List of my best scientific publications
-International journals M. Soto, A. Rossi, M. Sevaux, A Multiple Neighborhood Search for dynamic memory allocation in embedded systems, Journal of Heuristics, pp 1-31, 2015. doi:10.1007/s10732-015-9297-y. M. Sevaux, A. Rossi, M. Soto, A. Duarte, R. Martí, GRASP with Ejection Chains for the dynamic memory allocation in embedded systems, Soft Computing, 18 (1), pp 34-42, August 2014. doi:10.1007/s00500-013-1157-9. M. Soto, A. Rossi, M. Sevaux, Iterative approaches for a dynamic memory allocation problem in embedded systems, European Journal of Operational Research, 231 (1), pp 34-42, November 2013.</description></item><item><title>Calibrating the parameters of a Signal Detection Library</title><link>http://example.org/portfolio/calibration-parameters/</link><pubDate>Thu, 01 Oct 2015 12:49:27 +0600</pubDate><guid>http://example.org/portfolio/calibration-parameters/</guid><description>Ce travail a été réalisé pour une entreprise dans le domaine de l’aérospatiale et la défense experte dans le domaine de la détection et le traitement de signaux satellites. Sa librairie de détection dépende principalement de quatre paramètres : Detection Threshold, Bandwidth, PSD et Fe. Les valeurs données à ces paramètres font varier la qualité de la détection des signaux.
-L’entreprise souhaite déterminer l’ensemble des valeurs à ces paramètres qui vont permettre d’optimiser la détection des signaux satellite.</description></item><item><title>International Conferences</title><link>http://example.org/blog/international_conference/</link><pubDate>Wed, 20 May 2015 13:06:26 +0600</pubDate><guid>http://example.org/blog/international_conference/</guid><description>List of international conferences
-International Conferences M. Sevaux, M. Soto, A. Rossi, A. Reinholz, Multiple neighborhood search for the multi-depot open vehicle routing problem. Network Optimization Workshop, La Rochelle, France. 10-20 Mai 2015. M. Sevaux, A. Reinholz, M. Soto, A. Rossi, OVRP for the transportation of handicapped people. Proceedings of the LOT conference - A special EU/MEeting in memory of late Professor Arne Løkketangen, Molde, Norvège. Septembre 2014, pp.</description></item><item><title>French Conferences</title><link>http://example.org/blog/french_conferences/</link><pubDate>Fri, 28 Feb 2014 12:49:27 +0600</pubDate><guid>http://example.org/blog/french_conferences/</guid><description>List of french conferences
-French Conferences M. Soto, M. Sevaux, and A. Rossi. Optimisation du transport de personnes handicapées, ROADEF 2014, Bordeaux, France, 26-28 February 2014. M. Soto, M. Afsar, F. Hnaien, H. Snoussi, Problème de surveillance par capteurs mobiles, ROADEF 2013, Troyes, France, 13-15 February 2013. M. Soto, A. Rossi, M. Sevaux, J. Laurent, Approches itératives pour l&amp;rsquo;allocation de mémoire dynamique dans les systèmes embarqués, ROADEF 2012, pp.</description></item><item><title>Book</title><link>http://example.org/blog/book/</link><pubDate>Tue, 01 Jan 2013 12:49:27 +0600</pubDate><guid>http://example.org/blog/book/</guid><description>Book M. Soto, M. Sevaux, A. Rossi, J. Laurent, Memory Allocation Problems in Embedded Systems. Optimization Methods. ISTE/Wiley, 2013. Available here.</description></item><item><title>Thesis</title><link>http://example.org/blog/thesis/</link><pubDate>Fri, 30 Sep 2011 12:49:27 +0600</pubDate><guid>http://example.org/blog/thesis/</guid><description>My Phd Thesis and my graduate thesis
-PhD Thesis M. Soto, Optimization methods for the memory allocation problems in embedded systems, UBS, France, Septembre 2011. Thesis advisors: Marc Sevaux and André Rossi. My PhD thesis defense slides is available for download. Graduate Thesis M. Soto, Algoritmos de optimización para un problema estocástico de flujo de caja, Ecuador, 2007. Thesis advisor : Luis Miguel Torres.</description></item><item><title>Ecuadorian Jounal</title><link>http://example.org/blog/ecuadorian-journal/</link><pubDate>Thu, 01 Mar 2007 12:49:27 +0600</pubDate><guid>http://example.org/blog/ecuadorian-journal/</guid><description>Ecuadorian Journal M. Soto, L.M. Torres, Modelo estocástico y algoritmos en-línea para el problema de gestión de saldo en caja en el Banco Central del Ecuador (Stochastic optimization model and online algorithms for the management of account balance in the Central Bank of Ecuador), Cuestiones Económicas, vol. 23, N. 1, first quarter 2007. pp. 99-124.</description></item></channel></rss>
+ Équations mathématiques, décrivant le modèle physique Observation, mesures physiques de la réalité à travers des capteurs Statistiques d&amp;rsquo;erreurs : erreurs d&amp;rsquo;observation et du modèle  L&amp;rsquo;assimilation de données est considérée comme une méthode ``prédicteur/correction&#39;&#39;.</description>
+    </item>
+    
+    <item>
+      <title>Transit times at the outlet of waste collection trucks</title>
+      <link>http://example.org/portfolio/waste-collection/</link>
+      <pubDate>Sun, 01 Dec 2019 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/waste-collection/</guid>
+      <description>In progress page</description>
+    </item>
+    
+    <item>
+      <title>Most important publications</title>
+      <link>http://example.org/blog/best_publications/</link>
+      <pubDate>Mon, 01 May 2017 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/blog/best_publications/</guid>
+      <description>List of my best scientific publications
+ International journals  M. Soto, A. Rossi, M. Sevaux, A Multiple Neighborhood Search for dynamic memory allocation in embedded systems, Journal of Heuristics, pp 1-31, 2015. doi:10.1007/s10732-015-9297-y. M. Sevaux, A. Rossi, M. Soto, A. Duarte, R. Martí, GRASP with Ejection Chains for the dynamic memory allocation in embedded systems, Soft Computing, 18 (1), pp 34-42, August 2014. doi:10.1007/s00500-013-1157-9. M. Soto, A. Rossi, M. Sevaux, Iterative approaches for a dynamic memory allocation problem in embedded systems, European Journal of Operational Research, 231 (1), pp 34-42, November 2013.</description>
+    </item>
+    
+    <item>
+      <title>Calibrating the parameters of a Signal Detection Library</title>
+      <link>http://example.org/portfolio/calibration-parameters/</link>
+      <pubDate>Thu, 01 Oct 2015 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/calibration-parameters/</guid>
+      <description>Ce travail a été réalisé pour une entreprise dans le domaine de l’aérospatiale et la défense experte dans le domaine de la détection et le traitement de signaux satellites. Sa librairie de détection dépende principalement de quatre paramètres : Detection Threshold, Bandwidth, PSD et Fe. Les valeurs données à ces paramètres font varier la qualité de la détection des signaux.
+L’entreprise souhaite déterminer l’ensemble des valeurs à ces paramètres qui vont permettre d’optimiser la détection des signaux satellite.</description>
+    </item>
+    
+    <item>
+      <title>International Conferences</title>
+      <link>http://example.org/blog/international_conference/</link>
+      <pubDate>Wed, 20 May 2015 13:06:26 +0600</pubDate>
+      
+      <guid>http://example.org/blog/international_conference/</guid>
+      <description>List of international conferences
+ International Conferences  M. Sevaux, M. Soto, A. Rossi, A. Reinholz, Multiple neighborhood search for the multi-depot open vehicle routing problem. Network Optimization Workshop, La Rochelle, France. 10-20 Mai 2015. M. Sevaux, A. Reinholz, M. Soto, A. Rossi, OVRP for the transportation of handicapped people. Proceedings of the LOT conference - A special EU/MEeting in memory of late Professor Arne Løkketangen, Molde, Norvège. Septembre 2014, pp.</description>
+    </item>
+    
+    <item>
+      <title>French Conferences</title>
+      <link>http://example.org/blog/french_conferences/</link>
+      <pubDate>Fri, 28 Feb 2014 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/blog/french_conferences/</guid>
+      <description>List of french conferences
+ French Conferences  M. Soto, M. Sevaux, and A. Rossi. Optimisation du transport de personnes handicapées, ROADEF 2014, Bordeaux, France, 26-28 February 2014. M. Soto, M. Afsar, F. Hnaien, H. Snoussi, Problème de surveillance par capteurs mobiles, ROADEF 2013, Troyes, France, 13-15 February 2013. M. Soto, A. Rossi, M. Sevaux, J. Laurent, Approches itératives pour l&amp;rsquo;allocation de mémoire dynamique dans les systèmes embarqués, ROADEF 2012, pp.</description>
+    </item>
+    
+    <item>
+      <title>Book</title>
+      <link>http://example.org/blog/book/</link>
+      <pubDate>Tue, 01 Jan 2013 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/blog/book/</guid>
+      <description>Book  M. Soto, M. Sevaux, A. Rossi, J. Laurent, Memory Allocation Problems in Embedded Systems. Optimization Methods. ISTE/Wiley, 2013. Available here.  </description>
+    </item>
+    
+    <item>
+      <title>Thesis</title>
+      <link>http://example.org/blog/thesis/</link>
+      <pubDate>Fri, 30 Sep 2011 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/blog/thesis/</guid>
+      <description>My Phd Thesis and my graduate thesis
+ PhD Thesis  M. Soto, Optimization methods for the memory allocation problems in embedded systems, UBS, France, Septembre 2011. Thesis advisors: Marc Sevaux and André Rossi. My PhD thesis defense slides is available for download.  Graduate Thesis  M. Soto, Algoritmos de optimización para un problema estocástico de flujo de caja, Ecuador, 2007. Thesis advisor : Luis Miguel Torres.  </description>
+    </item>
+    
+    <item>
+      <title>Ecuadorian Jounal</title>
+      <link>http://example.org/blog/ecuadorian-journal/</link>
+      <pubDate>Thu, 01 Mar 2007 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/blog/ecuadorian-journal/</guid>
+      <description>Ecuadorian Journal  M. Soto, L.M. Torres, Modelo estocástico y algoritmos en-línea para el problema de gestión de saldo en caja en el Banco Central del Ecuador (Stochastic optimization model and online algorithms for the management of account balance in the Central Bank of Ecuador), Cuestiones Económicas, vol. 23, N. 1, first quarter 2007. pp. 99-124.  </description>
+    </item>
+    
+  </channel>
+</rss>
