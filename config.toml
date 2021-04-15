@@ -1,5 +1,5 @@
 publishdir = "docs"
-baseURL = "http://example.org/"
+baseURL = "https://mariasoto.github.io/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
