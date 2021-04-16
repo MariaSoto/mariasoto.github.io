@@ -1,3 +1,3 @@
 ---
-title: Scientific articles 
+title: Blog and Scientific articles 
 ---

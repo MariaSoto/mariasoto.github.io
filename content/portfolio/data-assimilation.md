@@ -1,7 +1,8 @@
 ---
 title: Data assimilation
 date: 2020-05-12T18:07:16.000+06:00
-thumbnail: images/portfolio/data-assimilation2.png
+featureImage: images/portfolio/meteo.png
+thumbnail: images/portfolio/meteo.png
 service: Kalman Filter and Time Series
 client: Applied Mathematics Laboratory
 shortDescription: Data assimilation for the growth curve of calves. Application of the Kalman Filter and Time Series. This study was carried out for an applied mathematics laboratory.
