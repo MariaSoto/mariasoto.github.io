@@ -42,4 +42,7 @@ testem.log
 Thumbs.db
 
 config0.toml
+/content/resume/
+/themes/portio/layouts/resume/
+
 
