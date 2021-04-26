@@ -1,7 +1,6 @@
 ---
 title: Data assimilation
 date: 2020-05-12T18:07:16.000+06:00
-featureImage: images/portfolio/meteo.png
 thumbnail: images/portfolio/meteo.png
 service: Kalman Filter and Time Series
 client: Applied Mathematics Laboratory
@@ -35,10 +34,10 @@ Comme notre modèle est linéaire nous avons appliqué un [Filtre Kalman](https:
 
 Le filtre de Kalman est composé par deux étapes : prédiction et mis à jour.  La phase de prédiction utilise l'état estimé de l'instant précédent pour produire une estimation de l'état actuel. Dans l'étape de mise à jour, les observations de l'instant courant sont utilisées pour corriger l'état prédit dans le but d'obtenir une estimation plus précise. 
 
-La Figure ci-desous présente les résultats de l’assimilation de données avec les séries chronologiques et le filtre de Kalman. La ligne verte représente le modèle en EDP. La ligne noir représente le vrai état du système (dans les cas réels cette état n’est souvent pas disponible). Les point blues sont les mesures du poids qui sont sujet aux erreurs. La ligne rouges présentent l'estimation du poids réel d’un individu  avec  le filtre de Kalman. Finalement, les points jaunes représentent les prédictions réalisées avec l'assimilation de données.
+Les résultats obtenus par l’assimilation de données avec le Filtre de Kalman et les Séries Chronologiques nous permettent de comprendre comment ce type de méthode permet d’améliorer significativement l’estimation du poids des animaux en prenant en compte l’erreur du modèle en EDP et l’erreur des observations.  
 
- 
 
-Dans ce cas d’étude nous pouvons voir le potentiel de l’assimilation de données pour l’estimation d’un état réel d’un système complexe en prenant en compte les erreurs du modèle et des mesures.   
+Dans ce cas d’étude nous pouvons voir le potentiel de l’assimilation de données pour l’estimation d’un état réel d’un système complexe impliquant un modèle analytique et des observations issues des capteurs ou d’une autre source.
+
 
  

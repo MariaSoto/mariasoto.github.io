@@ -178,8 +178,8 @@ L&rsquo;assimilation de données c&rsquo;est un ensemble des méthodes qui perme
 <p>Nous avons procédé comme dans la plupart des travaux d’assimilation de donnée avec un système complexe <a href="https://www.sciencedirect.com/science/article/abs/pii/S146350031500116X">Whale et all.</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0920410520302461">Sungil et all.</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364682608000953">Harter et all.</a>. L’utilisation du système mathématique pour la génération des données puis l’ajustement sur ces données d’une méthode statistique ou une intelligence artificielle comme les réseaux de neurones. Ainsi nous avons ajusté un modèle en <a href="https://fr.wikipedia.org/wiki/S%C3%A9rie_temporelle#:~:text=Une%20s%C3%A9rie%20temporelle%2C%20ou%20s%C3%A9rie,sp%C3%A9cifique%20au%20cours%20du%20temps">Séries Chronologiques</a> ARIMA(1,1,0).</p>
 <p>Comme notre modèle est linéaire nous avons appliqué un <a href="https://en.wikipedia.org/wiki/Kalman_filter">Filtre Kalman</a> classique pour notre assimilation de données. Le filtre de Kalman est bien connu et bien souvent utilisé pour l&rsquo;estimation stochastique  incluant des erreurs de mesures. Par exemple, pour le cas des capteurs  où  des grandeurs  sont mesurées à chaque instant mais avec de perturbations.</p>
 <p>Le filtre de Kalman est composé par deux étapes : prédiction et mis à jour.  La phase de prédiction utilise l&rsquo;état estimé de l&rsquo;instant précédent pour produire une estimation de l&rsquo;état actuel. Dans l&rsquo;étape de mise à jour, les observations de l&rsquo;instant courant sont utilisées pour corriger l&rsquo;état prédit dans le but d&rsquo;obtenir une estimation plus précise.</p>
-<p>La Figure ci-desous présente les résultats de l’assimilation de données avec les séries chronologiques et le filtre de Kalman. La ligne verte représente le modèle en EDP. La ligne noir représente le vrai état du système (dans les cas réels cette état n’est souvent pas disponible). Les point blues sont les mesures du poids qui sont sujet aux erreurs. La ligne rouges présentent l&rsquo;estimation du poids réel d’un individu  avec  le filtre de Kalman. Finalement, les points jaunes représentent les prédictions réalisées avec l&rsquo;assimilation de données.</p>
-<p>Dans ce cas d’étude nous pouvons voir le potentiel de l’assimilation de données pour l’estimation d’un état réel d’un système complexe en prenant en compte les erreurs du modèle et des mesures.</p>
+<p>Les résultats obtenus par l’assimilation de données avec le Filtre de Kalman et les Séries Chronologiques nous permettent de comprendre comment ce type de méthode permet d’améliorer significativement l’estimation du poids des animaux en prenant en compte l’erreur du modèle en EDP et l’erreur des observations.</p>
+<p>Dans ce cas d’étude nous pouvons voir le potentiel de l’assimilation de données pour l’estimation d’un état réel d’un système complexe impliquant un modèle analytique et des observations issues des capteurs ou d’une autre source.</p>
 
       </div>
     </div>
@@ -199,7 +199,7 @@ L&rsquo;assimilation de données c&rsquo;est un ensemble des méthodes qui perme
             <div class="content">
               <span class="small">Prev case</span>
               <h5 class="title"><a class="text-dark"
-                  href="https://mariasoto.github.io/portfolio/waste-collection/">Transit times at the outlet of waste collection trucks</a></h5>
+                  href="https://mariasoto.github.io/portfolio/calibration-parameters/">Calibrating the parameters of a Signal Detection Library</a></h5>
             </div>
           </div>
           
@@ -209,7 +209,7 @@ L&rsquo;assimilation de données c&rsquo;est un ensemble des méthodes qui perme
             <div class=" content text-right">
               <span class="small">Next case</span>
               <h5 class="title">
-                <a class="text-dark" href="https://mariasoto.github.io/portfolio/laying-curves/">Laying hens curves</a>
+                <a class="text-dark" href="https://mariasoto.github.io/portfolio/scheduling-conferences/">Scheduling Conferences</a>
               </h5>
             </div>
             <div class="icon ml-3">
